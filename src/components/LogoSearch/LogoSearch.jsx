@@ -8,5 +8,4 @@ const LogoSearch = () => {
    </div>
   )
 }
-
 export default LogoSearch
